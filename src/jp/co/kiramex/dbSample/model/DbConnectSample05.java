@@ -1,3 +1,8 @@
+//自宅の作業結果。プルとプッシュのテスト。
+
+
+
+
 package jp.co.kiramex.dbSample.model;
 
 import java.io.BufferedReader;
