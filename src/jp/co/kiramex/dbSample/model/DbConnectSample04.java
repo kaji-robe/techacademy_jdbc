@@ -1,5 +1,4 @@
-//自宅の作業結果。プルとプッシュのテスト。
-
+//職場から更新。プルテスト
 
 package jp.co.kiramex.dbSample.model;
 
